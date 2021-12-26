@@ -14,7 +14,7 @@ Being a very beginner developer I relied on friends-of-the-internet help for all
 I higly recommend everyone to do it. It is fun a a great way to collectivelly learn code.
 Puzzles are fun, sometimes using interesting well know algorithms, and, as they are made
 to any computer programming language, it it also great to compare code with different
-languages, or trying to solve in one that is outside of yopur comfort zone.
+languages, or trying to solve in one that is outside of your comfort zone.
 
 ## Find help
 
