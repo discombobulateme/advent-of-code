@@ -1,5 +1,5 @@
 # Advent of Code 🌲
-![Advent of Code logo](https://aplwiki.com/images/0/0d/Advent_Of_Code_Logo.png)
+<img width="900" alt="Image of my advent calendar with all 25 puzzles solved" src="https://user-images.githubusercontent.com/7980624/147411453-7eff7015-a183-42ef-9570-02e402c26623.png">
 
 **Advent of Code** is an [Advent calendar](https://en.wikipedia.org/wiki/Advent_calendar) of programming puzzles created by [Eric Wastl](http://was.tl/) that can be solved in any programming language. There's **a puzzle** each day with **two parts**. For each part you resolve, you get **one star**. By the end of the 25th days, if you do all the 25 puzzles with both parts you get **50 stars**, which is the minimum to finish the advent.
 
