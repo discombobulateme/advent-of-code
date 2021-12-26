@@ -22,6 +22,8 @@ There is a subreddit called [Solutions Megathread](https://www.reddit.com/r/adve
 
 A good soul created a webapp called [Submissions r/adventofcode](https://aocweb.yulrizka.com/) to help find solutions on Solutions Megathread, where you can filter by day and language.
 
+Someone called [Fish N Chips UK](https://www.webtoons.com/en/challenge/advent-of-code-2021/list?title_no=713188) has created a graphic/comics style interpretation of each puzzle, which can be super helpfull too.
+
 ## Creating a private leaderboard
 
 There is a general leaderboard that takes into account the running time since the puzzle was launched, but you can also create private leaderboards for you and your group of friends.
@@ -29,9 +31,9 @@ To create one you need to:
 
 1. Go to [leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
 2. Once you're logged in, you should see something like
-,,,
+```
 You have a private leaderboard that only you and its members can [View].
 Others can join it using the code XXXXXXXXXX. Up to 200 users can join, including yourself.
-,,,
+```
 3. Share the code so others can join
 
