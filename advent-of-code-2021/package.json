@@ -11,7 +11,5 @@
   ],
   "author": "Paloma Oliveira",
   "license": "MIT",
-  "dependencies": {
-    "lodash": "4.17.21"
-  }
+  "dependencies": {}
 }
